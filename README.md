@@ -4,12 +4,15 @@
 This project is made up of the following three components:
 
 ### Pacemaker Simulink Model
-#### Key Features:
-- Supoorts the following bradycardia therapy modes: AOO, VOO, AAI, VVI, AOOR, VOOR, AAIR, and VVIR.
-- Allows for 
-### Device Controller-Monitor
-#### Key Features:
+Key Features:
+- Supports the following bradycardia therapy modes: AOO, VOO, AAI, VVI, AOOR, VOOR, AAIR, and VVIR.
+- Enables serial communication between the pacemaker and the DCM
 
+
+### Device Controller-Monitor (DCM)
+Key Features:
+- Provides a secure user interface
+  
 ### Documentation
 The entire project is fully and formally documented in 
 `Pacemaker/docs/documentation.pdf`
